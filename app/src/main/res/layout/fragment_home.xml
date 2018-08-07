@@ -19,7 +19,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content">
 
-            <com.itobuz.android.easybmicalculator.GaugeView
+            <com.ryi715.bmicalculator.app.GaugeView
                 android:id="@+id/gauge_view"
                 android:layout_width="match_parent"
                 android:layout_height="300dp"

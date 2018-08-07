@@ -8,7 +8,7 @@
     android:padding="10dp"
     android:background="@drawable/back_selector"
     android:orientation="vertical"
-    tools:context="com.itobuz.android.easybmicalculator.FourFragment">
+    tools:context="com.ryi715.bmicalculator.app.FourFragment">
 
 
     <ImageView
